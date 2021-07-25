@@ -21,7 +21,7 @@ Developed by Evan Yang.
 Python \
 Yagmail \
 Selenium \
-LINE Dict
+[LINE Dict](https://dict.naver.com/linedict/enzhdict/#/cnen/home)
 
 **Not affiliated with LINE. The CN-EN dictionary is only used as a tool in this project.*
 
